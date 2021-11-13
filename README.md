@@ -10,3 +10,4 @@ I have learned or worked on -
 * Optimization Algorithms - Moementum Optimization to Adam & Nadam optimizers. I recently looked at AdaFactor while working on T5 models for summarization task.
 * Computer Vision - From AlexNet to EfficientNet Family, GANs and YOLO.   
 * Natural Language Processing - I am solid understanding of RNNs, LSTM and am currently going indepth in Transformers.
+* Reinforcement Learning - While learning RL from the book, I also watched videos of David Silver from DeepMind on youtube. I have good understanding of different RL algorithms like Q-Learning, SARSA, Monte-Carlo Tree etc.
